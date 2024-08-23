@@ -14,5 +14,6 @@ function Login() {
     </form>
   );
 }
+// always use the preventDefault().
 
 export default Login;
